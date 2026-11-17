@@ -1,0 +1,15 @@
+menu "MCT462 Network Settings"
+
+    config MCT462_WIFI_SSID
+        string "Wi-Fi SSID"
+        default ""
+
+    config MCT462_WIFI_PASSWORD
+        string "Wi-Fi Password"
+        default ""
+
+    config MCT462_BROKER_IP
+        string "MQTT Broker IP"
+        default "192.168.1.3"
+
+endmenu

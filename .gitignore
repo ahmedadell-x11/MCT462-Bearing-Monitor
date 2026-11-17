@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+firmware/mqtt_bridge/sdkconfig
+firmware/mqtt_bridge/sdkconfig.old
+firmware/mqtt_bridge/build/
+firmware/mqtt_bridge/managed_components/
