@@ -1,0 +1,120 @@
+{
+  "model_training_performed": false,
+  "source_download_scope": "14 selected 2 HP sources only",
+  "sources_verified": [
+    {
+      "recording_id": 99,
+      "source_sha256_verified": true,
+      "windows": 59
+    },
+    {
+      "recording_id": 107,
+      "source_sha256_verified": true,
+      "windows": 59
+    },
+    {
+      "recording_id": 171,
+      "source_sha256_verified": true,
+      "windows": 59
+    },
+    {
+      "recording_id": 211,
+      "source_sha256_verified": true,
+      "windows": 59
+    },
+    {
+      "recording_id": 120,
+      "source_sha256_verified": true,
+      "windows": 59
+    },
+    {
+      "recording_id": 187,
+      "source_sha256_verified": true,
+      "windows": 59
+    },
+    {
+      "recording_id": 224,
+      "source_sha256_verified": true,
+      "windows": 59
+    },
+    {
+      "recording_id": 132,
+      "source_sha256_verified": true,
+      "windows": 59
+    },
+    {
+      "recording_id": 199,
+      "source_sha256_verified": true,
+      "windows": 59
+    },
+    {
+      "recording_id": 236,
+      "source_sha256_verified": true,
+      "windows": 59
+    },
+    {
+      "recording_id": 146,
+      "source_sha256_verified": true,
+      "windows": 59
+    },
+    {
+      "recording_id": 159,
+      "source_sha256_verified": true,
+      "windows": 59
+    },
+    {
+      "recording_id": 248,
+      "source_sha256_verified": true,
+      "windows": 59
+    },
+    {
+      "recording_id": 260,
+      "source_sha256_verified": true,
+      "windows": 59
+    }
+  ],
+  "window_count": 826,
+  "shape": [
+    826,
+    2048
+  ],
+  "dtype": "float32",
+  "exact_window_metadata_alignment": true,
+  "saved_validation_normalized_shape": [
+    826,
+    12
+  ],
+  "normalized_inputs_max_abs_difference": 0.0,
+  "normalized_inputs_match_saved_run": true,
+  "original_14_raw_fixture_max_abs_difference": 0.0,
+  "original_14_score_max_abs_difference": 1.1920928955078125e-07,
+  "independently_recomputed_confusion_matrix": [
+    [
+      59,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      177,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      412,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      177
+    ]
+  ],
+  "independent_correct": 825,
+  "source_rates_status": "reference documented; data-level confirmation pending",
+  "no_esp32_or_mqtt_execution_claimed": true
+}

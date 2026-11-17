@@ -1,0 +1,13 @@
+{
+  "run_id": "c831903aeb0945a5be01158b88fd71f0",
+  "window_id": "a0ba3b0f59ce4d65be21949c485d4d5a",
+  "sequence": 0,
+  "header_bytes": 52,
+  "sample_bytes": 8192,
+  "crc_bytes": 4,
+  "application_packet_bytes": 8248,
+  "sample_rate_hz": 12000,
+  "sample_count": 2048,
+  "encoding": "IEEE754 float32 little-endian",
+  "crc32_hex": "de260619"
+}

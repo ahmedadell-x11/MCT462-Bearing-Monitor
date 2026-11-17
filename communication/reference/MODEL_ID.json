@@ -1,0 +1,20 @@
+{
+  "model": "current executed interim FP32 baseline",
+  "architecture": [
+    12,
+    16,
+    8,
+    4
+  ],
+  "parameters": 380,
+  "final_fit_epochs": 36,
+  "sha256": "1ab8ae87b2ebd0ef7dd6dce67e011d5684b8d59e64562ef8627d26ef571d6aef",
+  "file_bytes": 3708,
+  "model_input": "12 normalized features computed by ESP32 from raw windows",
+  "development_result": {
+    "correct": 825,
+    "total": 826,
+    "accuracy": 0.9987893462469734
+  },
+  "status": "interim baseline; no new grouped-guide result or ESP32 measurement claimed"
+}

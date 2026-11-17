@@ -1,0 +1,44 @@
+{
+  "fs": 12000,
+  "window": 2048,
+  "feature_order": [
+    "rms",
+    "std",
+    "peak_to_peak",
+    "crest_factor",
+    "skewness",
+    "pearson_kurtosis",
+    "power_0_500",
+    "power_500_1000",
+    "power_1000_2000",
+    "power_2000_3000",
+    "power_3000_4000",
+    "power_4000_6000"
+  ],
+  "class_order": [
+    "healthy",
+    "inner_race",
+    "outer_race",
+    "ball"
+  ],
+  "model_input": "(features_float32 - mean_float32) / scale_float32",
+  "model_input_shape": [
+    1,
+    12
+  ],
+  "model_output_shape": [
+    1,
+    4
+  ],
+  "reference": "feature_reference.py; arithmetic float64, feature output float32",
+  "bands_hz": [
+    0,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000
+  ],
+  "deployment_validation": "raw feature parity and ESP32 measurements still required"
+}
