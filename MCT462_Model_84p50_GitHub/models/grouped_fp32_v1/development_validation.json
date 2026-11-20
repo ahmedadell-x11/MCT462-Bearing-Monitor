@@ -1,0 +1,107 @@
+{
+  "training_accuracy": 0.8352868599629858,
+  "validation_accuracy": 0.8450363196125908,
+  "validation_balanced_accuracy": 0.8668280871670703,
+  "validation_macro_f1": 0.8552471142397049,
+  "validation_recordings": 14,
+  "validation_windows": 826,
+  "mean_recording_recall": 0.8668280871670703,
+  "confusion_matrix": [
+    [
+      59,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      117,
+      48,
+      12
+    ],
+    [
+      0,
+      0,
+      354,
+      59
+    ],
+    [
+      5,
+      4,
+      0,
+      168
+    ]
+  ],
+  "per_record": [
+    {
+      "id": 99,
+      "windows": 59,
+      "accuracy": 1.0
+    },
+    {
+      "id": 107,
+      "windows": 59,
+      "accuracy": 0.9661016949152542
+    },
+    {
+      "id": 120,
+      "windows": 59,
+      "accuracy": 1.0
+    },
+    {
+      "id": 132,
+      "windows": 59,
+      "accuracy": 1.0
+    },
+    {
+      "id": 146,
+      "windows": 59,
+      "accuracy": 1.0
+    },
+    {
+      "id": 159,
+      "windows": 59,
+      "accuracy": 1.0
+    },
+    {
+      "id": 171,
+      "windows": 59,
+      "accuracy": 0.6271186440677966
+    },
+    {
+      "id": 187,
+      "windows": 59,
+      "accuracy": 0.847457627118644
+    },
+    {
+      "id": 199,
+      "windows": 59,
+      "accuracy": 0.0
+    },
+    {
+      "id": 211,
+      "windows": 59,
+      "accuracy": 0.3898305084745763
+    },
+    {
+      "id": 224,
+      "windows": 59,
+      "accuracy": 1.0
+    },
+    {
+      "id": 236,
+      "windows": 59,
+      "accuracy": 1.0
+    },
+    {
+      "id": 248,
+      "windows": 59,
+      "accuracy": 1.0
+    },
+    {
+      "id": 260,
+      "windows": 59,
+      "accuracy": 1.0
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+This is a grouped-selection FP32 baseline, not a complete final system.
+Internal folds: leave one fault size and one healthy recording out, within 0/1 HP.
+Their scores are internal model-selection evidence, not the final model's accuracy.
+2 HP is development validation; keep 3 HP reserved until all choices are fixed.
+Missing subset rules and data-level sampling-rate confirmation remain unresolved.
+Mandatory remaining variants: 50% pruning+fine-tune; 80% pruning+fine-tune;
+full INT8 PTQ calibrated only from training inputs; chosen pruning+INT8.
+All five variants need the same ESP32, build configuration and replay conditions.
+Measure deployed flash/RAM and feature/inference times separately on the ESP32.
+Send raw samples with neutral IDs; ground-truth labels remain on the PC.
+The reference NPZ, model-selection metadata and optimization data are PC-only.
+Actual firmware feature parity and complete offline system verification remain tasks.

@@ -1,0 +1,854 @@
+[
+  {
+    "key": "l2_0.001_size7_healthy0",
+    "l2": 0.001,
+    "fold": "size7_healthy0",
+    "held_size_mils": 7,
+    "held_healthy_hp": 0,
+    "learning_ids": [
+      98,
+      169,
+      170,
+      185,
+      186,
+      197,
+      198,
+      209,
+      210,
+      222,
+      223,
+      234,
+      235,
+      246,
+      247,
+      258,
+      259
+    ],
+    "selection_ids": [
+      97,
+      105,
+      106,
+      118,
+      119,
+      130,
+      131,
+      144,
+      145,
+      156,
+      158
+    ],
+    "epochs_run": 13,
+    "best_epoch": 3,
+    "reached_epoch_ceiling": false,
+    "mean_recording_recall": 0.7450564971751412,
+    "balanced_accuracy": 0.7450564971751412,
+    "macro_f1": 0.7046420657531769,
+    "confusion_matrix": [
+      [
+        29,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        118,
+        0
+      ],
+      [
+        0,
+        0,
+        347,
+        7
+      ],
+      [
+        0,
+        0,
+        0,
+        118
+      ]
+    ]
+  },
+  {
+    "key": "l2_0.001_size7_healthy1",
+    "l2": 0.001,
+    "fold": "size7_healthy1",
+    "held_size_mils": 7,
+    "held_healthy_hp": 1,
+    "learning_ids": [
+      97,
+      169,
+      170,
+      185,
+      186,
+      197,
+      198,
+      209,
+      210,
+      222,
+      223,
+      234,
+      235,
+      246,
+      247,
+      258,
+      259
+    ],
+    "selection_ids": [
+      98,
+      105,
+      106,
+      118,
+      119,
+      130,
+      131,
+      144,
+      145,
+      156,
+      158
+    ],
+    "epochs_run": 13,
+    "best_epoch": 3,
+    "reached_epoch_ceiling": false,
+    "mean_recording_recall": 0.7443502824858758,
+    "balanced_accuracy": 0.7443502824858756,
+    "macro_f1": 0.7032947212313119,
+    "confusion_matrix": [
+      [
+        58,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        118,
+        0
+      ],
+      [
+        0,
+        0,
+        346,
+        8
+      ],
+      [
+        0,
+        0,
+        0,
+        118
+      ]
+    ]
+  },
+  {
+    "key": "l2_0.001_size14_healthy0",
+    "l2": 0.001,
+    "fold": "size14_healthy0",
+    "held_size_mils": 14,
+    "held_healthy_hp": 0,
+    "learning_ids": [
+      98,
+      105,
+      106,
+      118,
+      119,
+      130,
+      131,
+      144,
+      145,
+      156,
+      158,
+      209,
+      210,
+      222,
+      223,
+      234,
+      235,
+      246,
+      247,
+      258,
+      259
+    ],
+    "selection_ids": [
+      97,
+      169,
+      170,
+      185,
+      186,
+      197,
+      198
+    ],
+    "epochs_run": 11,
+    "best_epoch": 1,
+    "reached_epoch_ceiling": false,
+    "mean_recording_recall": 0.37383109292811223,
+    "balanced_accuracy": 0.37383109292811223,
+    "macro_f1": 0.28411486885384163,
+    "confusion_matrix": [
+      [
+        21,
+        0,
+        0,
+        8
+      ],
+      [
+        2,
+        0,
+        116,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        117
+      ],
+      [
+        18,
+        0,
+        9,
+        91
+      ]
+    ]
+  },
+  {
+    "key": "l2_0.001_size14_healthy1",
+    "l2": 0.001,
+    "fold": "size14_healthy1",
+    "held_size_mils": 14,
+    "held_healthy_hp": 1,
+    "learning_ids": [
+      97,
+      105,
+      106,
+      118,
+      119,
+      130,
+      131,
+      144,
+      145,
+      156,
+      158,
+      209,
+      210,
+      222,
+      223,
+      234,
+      235,
+      246,
+      247,
+      258,
+      259
+    ],
+    "selection_ids": [
+      98,
+      169,
+      170,
+      185,
+      186,
+      197,
+      198
+    ],
+    "epochs_run": 11,
+    "best_epoch": 1,
+    "reached_epoch_ceiling": false,
+    "mean_recording_recall": 0.4343220338983051,
+    "balanced_accuracy": 0.4343220338983051,
+    "macro_f1": 0.3378903704990661,
+    "confusion_matrix": [
+      [
+        58,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        116,
+        1
+      ],
+      [
+        2,
+        0,
+        0,
+        116
+      ],
+      [
+        24,
+        0,
+        7,
+        87
+      ]
+    ]
+  },
+  {
+    "key": "l2_0.001_size21_healthy0",
+    "l2": 0.001,
+    "fold": "size21_healthy0",
+    "held_size_mils": 21,
+    "held_healthy_hp": 0,
+    "learning_ids": [
+      98,
+      105,
+      106,
+      118,
+      119,
+      130,
+      131,
+      144,
+      145,
+      156,
+      158,
+      169,
+      170,
+      185,
+      186,
+      197,
+      198
+    ],
+    "selection_ids": [
+      97,
+      209,
+      210,
+      222,
+      223,
+      234,
+      235,
+      246,
+      247,
+      258,
+      259
+    ],
+    "epochs_run": 28,
+    "best_epoch": 18,
+    "reached_epoch_ceiling": false,
+    "mean_recording_recall": 0.6454802259887005,
+    "balanced_accuracy": 0.6454802259887006,
+    "macro_f1": 0.4871052720534731,
+    "confusion_matrix": [
+      [
+        29,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        118,
+        0
+      ],
+      [
+        115,
+        0,
+        239,
+        0
+      ],
+      [
+        0,
+        0,
+        11,
+        107
+      ]
+    ]
+  },
+  {
+    "key": "l2_0.001_size21_healthy1",
+    "l2": 0.001,
+    "fold": "size21_healthy1",
+    "held_size_mils": 21,
+    "held_healthy_hp": 1,
+    "learning_ids": [
+      97,
+      105,
+      106,
+      118,
+      119,
+      130,
+      131,
+      144,
+      145,
+      156,
+      158,
+      169,
+      170,
+      185,
+      186,
+      197,
+      198
+    ],
+    "selection_ids": [
+      98,
+      209,
+      210,
+      222,
+      223,
+      234,
+      235,
+      246,
+      247,
+      258,
+      259
+    ],
+    "epochs_run": 14,
+    "best_epoch": 4,
+    "reached_epoch_ceiling": false,
+    "mean_recording_recall": 0.6454802259887005,
+    "balanced_accuracy": 0.6454802259887005,
+    "macro_f1": 0.5272150809286905,
+    "confusion_matrix": [
+      [
+        58,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        118,
+        0
+      ],
+      [
+        118,
+        0,
+        236,
+        0
+      ],
+      [
+        0,
+        0,
+        10,
+        108
+      ]
+    ]
+  },
+  {
+    "key": "l2_0.01_size7_healthy0",
+    "l2": 0.01,
+    "fold": "size7_healthy0",
+    "held_size_mils": 7,
+    "held_healthy_hp": 0,
+    "learning_ids": [
+      98,
+      169,
+      170,
+      185,
+      186,
+      197,
+      198,
+      209,
+      210,
+      222,
+      223,
+      234,
+      235,
+      246,
+      247,
+      258,
+      259
+    ],
+    "selection_ids": [
+      97,
+      105,
+      106,
+      118,
+      119,
+      130,
+      131,
+      144,
+      145,
+      156,
+      158
+    ],
+    "epochs_run": 15,
+    "best_epoch": 5,
+    "reached_epoch_ceiling": false,
+    "mean_recording_recall": 0.7323446327683616,
+    "balanced_accuracy": 0.7323446327683616,
+    "macro_f1": 0.6822913665610295,
+    "confusion_matrix": [
+      [
+        29,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        118,
+        0
+      ],
+      [
+        0,
+        1,
+        329,
+        24
+      ],
+      [
+        0,
+        0,
+        0,
+        118
+      ]
+    ]
+  },
+  {
+    "key": "l2_0.01_size7_healthy1",
+    "l2": 0.01,
+    "fold": "size7_healthy1",
+    "held_size_mils": 7,
+    "held_healthy_hp": 1,
+    "learning_ids": [
+      97,
+      169,
+      170,
+      185,
+      186,
+      197,
+      198,
+      209,
+      210,
+      222,
+      223,
+      234,
+      235,
+      246,
+      247,
+      258,
+      259
+    ],
+    "selection_ids": [
+      98,
+      105,
+      106,
+      118,
+      119,
+      130,
+      131,
+      144,
+      145,
+      156,
+      158
+    ],
+    "epochs_run": 18,
+    "best_epoch": 9,
+    "reached_epoch_ceiling": false,
+    "mean_recording_recall": 0.7055084745762712,
+    "balanced_accuracy": 0.7055084745762712,
+    "macro_f1": 0.6265093439494638,
+    "confusion_matrix": [
+      [
+        58,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        83,
+        35
+      ],
+      [
+        0,
+        0,
+        291,
+        63
+      ],
+      [
+        0,
+        0,
+        0,
+        118
+      ]
+    ]
+  },
+  {
+    "key": "l2_0.01_size14_healthy0",
+    "l2": 0.01,
+    "fold": "size14_healthy0",
+    "held_size_mils": 14,
+    "held_healthy_hp": 0,
+    "learning_ids": [
+      98,
+      105,
+      106,
+      118,
+      119,
+      130,
+      131,
+      144,
+      145,
+      156,
+      158,
+      209,
+      210,
+      222,
+      223,
+      234,
+      235,
+      246,
+      247,
+      258,
+      259
+    ],
+    "selection_ids": [
+      97,
+      169,
+      170,
+      185,
+      186,
+      197,
+      198
+    ],
+    "epochs_run": 11,
+    "best_epoch": 1,
+    "reached_epoch_ceiling": false,
+    "mean_recording_recall": 0.37383109292811223,
+    "balanced_accuracy": 0.37383109292811223,
+    "macro_f1": 0.28411486885384163,
+    "confusion_matrix": [
+      [
+        21,
+        0,
+        0,
+        8
+      ],
+      [
+        2,
+        0,
+        116,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        117
+      ],
+      [
+        18,
+        0,
+        9,
+        91
+      ]
+    ]
+  },
+  {
+    "key": "l2_0.01_size14_healthy1",
+    "l2": 0.01,
+    "fold": "size14_healthy1",
+    "held_size_mils": 14,
+    "held_healthy_hp": 1,
+    "learning_ids": [
+      97,
+      105,
+      106,
+      118,
+      119,
+      130,
+      131,
+      144,
+      145,
+      156,
+      158,
+      209,
+      210,
+      222,
+      223,
+      234,
+      235,
+      246,
+      247,
+      258,
+      259
+    ],
+    "selection_ids": [
+      98,
+      169,
+      170,
+      185,
+      186,
+      197,
+      198
+    ],
+    "epochs_run": 11,
+    "best_epoch": 1,
+    "reached_epoch_ceiling": false,
+    "mean_recording_recall": 0.4343220338983051,
+    "balanced_accuracy": 0.4343220338983051,
+    "macro_f1": 0.3378903704990661,
+    "confusion_matrix": [
+      [
+        58,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        116,
+        1
+      ],
+      [
+        2,
+        0,
+        0,
+        116
+      ],
+      [
+        24,
+        0,
+        7,
+        87
+      ]
+    ]
+  },
+  {
+    "key": "l2_0.01_size21_healthy0",
+    "l2": 0.01,
+    "fold": "size21_healthy0",
+    "held_size_mils": 21,
+    "held_healthy_hp": 0,
+    "learning_ids": [
+      98,
+      105,
+      106,
+      118,
+      119,
+      130,
+      131,
+      144,
+      145,
+      156,
+      158,
+      169,
+      170,
+      185,
+      186,
+      197,
+      198
+    ],
+    "selection_ids": [
+      97,
+      209,
+      210,
+      222,
+      223,
+      234,
+      235,
+      246,
+      247,
+      258,
+      259
+    ],
+    "epochs_run": 36,
+    "best_epoch": 26,
+    "reached_epoch_ceiling": false,
+    "mean_recording_recall": 0.5988700564971752,
+    "balanced_accuracy": 0.5988700564971752,
+    "macro_f1": 0.4546877054569362,
+    "confusion_matrix": [
+      [
+        29,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        118,
+        0
+      ],
+      [
+        111,
+        66,
+        176,
+        1
+      ],
+      [
+        0,
+        0,
+        12,
+        106
+      ]
+    ]
+  },
+  {
+    "key": "l2_0.01_size21_healthy1",
+    "l2": 0.01,
+    "fold": "size21_healthy1",
+    "held_size_mils": 21,
+    "held_healthy_hp": 1,
+    "learning_ids": [
+      97,
+      105,
+      106,
+      118,
+      119,
+      130,
+      131,
+      144,
+      145,
+      156,
+      158,
+      169,
+      170,
+      185,
+      186,
+      197,
+      198
+    ],
+    "selection_ids": [
+      98,
+      209,
+      210,
+      222,
+      223,
+      234,
+      235,
+      246,
+      247,
+      258,
+      259
+    ],
+    "epochs_run": 82,
+    "best_epoch": 74,
+    "reached_epoch_ceiling": false,
+    "mean_recording_recall": 0.7556497175141244,
+    "balanced_accuracy": 0.7556497175141244,
+    "macro_f1": 0.7310599088576919,
+    "confusion_matrix": [
+      [
+        58,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        60,
+        58,
+        0
+      ],
+      [
+        6,
+        114,
+        218,
+        16
+      ],
+      [
+        0,
+        0,
+        12,
+        106
+      ]
+    ]
+  }
+]

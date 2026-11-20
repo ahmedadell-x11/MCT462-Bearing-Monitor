@@ -1,0 +1,20 @@
+{
+  "seed": 462,
+  "fs": 12000,
+  "window": 2048,
+  "stride": 2048,
+  "trim": 128,
+  "hidden": [
+    8
+  ],
+  "l2_candidates": [
+    0.001,
+    0.01
+  ],
+  "tie_tolerance": 0.005,
+  "learning_rate": 0.001,
+  "batch_size": 32,
+  "max_epochs": 150,
+  "patience": 10,
+  "min_delta": 0.001
+}

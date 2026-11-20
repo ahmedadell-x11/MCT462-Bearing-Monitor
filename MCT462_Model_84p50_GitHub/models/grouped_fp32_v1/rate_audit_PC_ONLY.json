@@ -1,0 +1,626 @@
+[
+  {
+    "id": 97,
+    "variables": [
+      "X097_DE_time",
+      "X097_FE_time",
+      "X097RPM"
+    ],
+    "small_metadata": {
+      "X097RPM": [
+        1796
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 98,
+    "variables": [
+      "X098_DE_time",
+      "X098_FE_time"
+    ],
+    "small_metadata": {},
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 99,
+    "variables": [
+      "ans",
+      "X098_DE_time",
+      "X098_FE_time",
+      "X099_DE_time",
+      "X099_FE_time"
+    ],
+    "small_metadata": {
+      "ans": [
+        1
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 105,
+    "variables": [
+      "X105_DE_time",
+      "X105_FE_time",
+      "X105_BA_time",
+      "X105RPM"
+    ],
+    "small_metadata": {
+      "X105RPM": [
+        1797
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 106,
+    "variables": [
+      "X106_DE_time",
+      "X106_FE_time",
+      "X106_BA_time",
+      "X106RPM"
+    ],
+    "small_metadata": {
+      "X106RPM": [
+        1772
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 107,
+    "variables": [
+      "X107_DE_time",
+      "X107_FE_time",
+      "X107_BA_time",
+      "X107RPM"
+    ],
+    "small_metadata": {
+      "X107RPM": [
+        1748
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 169,
+    "variables": [
+      "X169_DE_time",
+      "X169_FE_time",
+      "X169_BA_time",
+      "X169RPM"
+    ],
+    "small_metadata": {
+      "X169RPM": [
+        1796
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 170,
+    "variables": [
+      "X170_DE_time",
+      "X170_FE_time",
+      "X170_BA_time",
+      "X170RPM"
+    ],
+    "small_metadata": {
+      "X170RPM": [
+        1774
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 171,
+    "variables": [
+      "X171_DE_time",
+      "X171_FE_time",
+      "X171_BA_time",
+      "X171RPM"
+    ],
+    "small_metadata": {
+      "X171RPM": [
+        1752
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 209,
+    "variables": [
+      "X209_DE_time",
+      "X209_FE_time",
+      "X209_BA_time",
+      "X209RPM"
+    ],
+    "small_metadata": {
+      "X209RPM": [
+        1797
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 210,
+    "variables": [
+      "X210_DE_time",
+      "X210_FE_time",
+      "X210_BA_time",
+      "X210RPM"
+    ],
+    "small_metadata": {
+      "X210RPM": [
+        1774
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 211,
+    "variables": [
+      "X211_DE_time",
+      "X211_FE_time",
+      "X211_BA_time",
+      "X211RPM"
+    ],
+    "small_metadata": {
+      "X211RPM": [
+        1752
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 118,
+    "variables": [
+      "X118_DE_time",
+      "X118_FE_time",
+      "X118_BA_time",
+      "X118RPM"
+    ],
+    "small_metadata": {
+      "X118RPM": [
+        1796
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 119,
+    "variables": [
+      "X119_DE_time",
+      "X119_FE_time",
+      "X119_BA_time",
+      "X119RPM"
+    ],
+    "small_metadata": {
+      "X119RPM": [
+        1772
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 120,
+    "variables": [
+      "X120_DE_time",
+      "X120_FE_time",
+      "X120_BA_time",
+      "X120RPM"
+    ],
+    "small_metadata": {
+      "X120RPM": [
+        1748
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 185,
+    "variables": [
+      "X185_DE_time",
+      "X185_FE_time",
+      "X185_BA_time",
+      "X185RPM"
+    ],
+    "small_metadata": {
+      "X185RPM": [
+        1796
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 186,
+    "variables": [
+      "X186_DE_time",
+      "X186_FE_time",
+      "X186_BA_time",
+      "X186RPM"
+    ],
+    "small_metadata": {
+      "X186RPM": [
+        1772
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 187,
+    "variables": [
+      "X187_DE_time",
+      "X187_FE_time",
+      "X187_BA_time",
+      "X187RPM"
+    ],
+    "small_metadata": {
+      "X187RPM": [
+        1749
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 222,
+    "variables": [
+      "X222_DE_time",
+      "X222_FE_time",
+      "X222_BA_time",
+      "X222RPM"
+    ],
+    "small_metadata": {
+      "X222RPM": [
+        1796
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 223,
+    "variables": [
+      "X223_DE_time",
+      "X223_FE_time",
+      "X223_BA_time",
+      "X223RPM"
+    ],
+    "small_metadata": {
+      "X223RPM": [
+        1774
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 224,
+    "variables": [
+      "X224_DE_time",
+      "X224_FE_time",
+      "X224_BA_time",
+      "X224RPM"
+    ],
+    "small_metadata": {
+      "X224RPM": [
+        1754
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 130,
+    "variables": [
+      "X130_DE_time",
+      "X130_FE_time",
+      "X130_BA_time",
+      "X130RPM"
+    ],
+    "small_metadata": {
+      "X130RPM": [
+        1796
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 131,
+    "variables": [
+      "X131_DE_time",
+      "X131_FE_time",
+      "X131_BA_time",
+      "X131RPM"
+    ],
+    "small_metadata": {
+      "X131RPM": [
+        1773
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 132,
+    "variables": [
+      "X132_DE_time",
+      "X132_FE_time",
+      "X132_BA_time",
+      "X132RPM"
+    ],
+    "small_metadata": {
+      "X132RPM": [
+        1750
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 197,
+    "variables": [
+      "X197_DE_time",
+      "X197_FE_time",
+      "X197_BA_time",
+      "X197RPM"
+    ],
+    "small_metadata": {
+      "X197RPM": [
+        1796
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 198,
+    "variables": [
+      "X198_DE_time",
+      "X198_FE_time",
+      "X198_BA_time",
+      "X198RPM"
+    ],
+    "small_metadata": {
+      "X198RPM": [
+        1772
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 199,
+    "variables": [
+      "X199_DE_time",
+      "X199_FE_time",
+      "X199_BA_time",
+      "X199RPM"
+    ],
+    "small_metadata": {
+      "X199RPM": [
+        1749
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 234,
+    "variables": [
+      "X234_DE_time",
+      "X234_FE_time",
+      "X234_BA_time",
+      "X234RPM"
+    ],
+    "small_metadata": {
+      "X234RPM": [
+        1796
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 235,
+    "variables": [
+      "X235_DE_time",
+      "X235_FE_time",
+      "X235_BA_time",
+      "X235RPM"
+    ],
+    "small_metadata": {
+      "X235RPM": [
+        1771
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 236,
+    "variables": [
+      "X236_DE_time",
+      "X236_FE_time",
+      "X236_BA_time",
+      "X236RPM"
+    ],
+    "small_metadata": {
+      "X236RPM": [
+        1748
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 144,
+    "variables": [
+      "X144_DE_time",
+      "X144_FE_time",
+      "X144_BA_time",
+      "X144RPM"
+    ],
+    "small_metadata": {
+      "X144RPM": [
+        1797
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 145,
+    "variables": [
+      "X145_DE_time",
+      "X145_FE_time",
+      "X145_BA_time",
+      "X145RPM"
+    ],
+    "small_metadata": {
+      "X145RPM": [
+        1774
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 146,
+    "variables": [
+      "X146_DE_time",
+      "X146_FE_time",
+      "X146_BA_time",
+      "X146RPM"
+    ],
+    "small_metadata": {
+      "X146RPM": [
+        1751
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 156,
+    "variables": [
+      "X156_DE_time",
+      "X156_FE_time",
+      "X156_BA_time",
+      "X156RPM"
+    ],
+    "small_metadata": {
+      "X156RPM": [
+        1797
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 158,
+    "variables": [
+      "X158_DE_time",
+      "X158_FE_time",
+      "X158_BA_time",
+      "X158RPM"
+    ],
+    "small_metadata": {
+      "X158RPM": [
+        1773
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 159,
+    "variables": [
+      "X159_DE_time",
+      "X159_FE_time",
+      "X159_BA_time",
+      "X159RPM"
+    ],
+    "small_metadata": {
+      "X159RPM": [
+        1750
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 246,
+    "variables": [
+      "X246_DE_time",
+      "X246_FE_time",
+      "X246_BA_time",
+      "X246RPM"
+    ],
+    "small_metadata": {
+      "X246RPM": [
+        1796
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 247,
+    "variables": [
+      "X247_DE_time",
+      "X247_FE_time",
+      "X247_BA_time",
+      "X247RPM"
+    ],
+    "small_metadata": {
+      "X247RPM": [
+        1771
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 248,
+    "variables": [
+      "X248_DE_time",
+      "X248_FE_time",
+      "X248_BA_time",
+      "X248RPM"
+    ],
+    "small_metadata": {
+      "X248RPM": [
+        1747
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 258,
+    "variables": [
+      "X258_DE_time",
+      "X258_FE_time",
+      "X258_BA_time",
+      "X258RPM"
+    ],
+    "small_metadata": {
+      "X258RPM": [
+        1796
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 259,
+    "variables": [
+      "X259_DE_time",
+      "X259_FE_time",
+      "X259_BA_time",
+      "X259RPM"
+    ],
+    "small_metadata": {
+      "X259RPM": [
+        1771
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  },
+  {
+    "id": 260,
+    "variables": [
+      "X260_DE_time",
+      "X260_FE_time",
+      "X260_BA_time",
+      "X260RPM"
+    ],
+    "small_metadata": {
+      "X260RPM": [
+        1746
+      ]
+    },
+    "rate_status": "reference documented; data-level confirmation pending"
+  }
+]

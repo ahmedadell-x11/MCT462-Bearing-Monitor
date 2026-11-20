@@ -1,0 +1,5 @@
+{
+  "fold": "size7_healthy0",
+  "balanced_accuracy": 0.25,
+  "interpretation": "one diagnostic, not a final test"
+}

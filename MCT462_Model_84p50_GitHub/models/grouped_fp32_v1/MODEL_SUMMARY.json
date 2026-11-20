@@ -1,0 +1,55 @@
+{
+  "model_id": "grouped_fp32_v1_d782992aeb8c",
+  "status": "PRELIMINARY_DEVELOPMENT_BASELINE",
+  "source_run_archive": "run_20261119_144118_671165_grouped_FP32_handoff.zip",
+  "training_performed_during_packaging": false,
+  "architecture": "12 inputs -> 8 ReLU units -> 4 softmax outputs",
+  "parameters": 140,
+  "training_loads_hp": [
+    0,
+    1
+  ],
+  "training_recordings": 28,
+  "training_windows": 1621,
+  "validation_load_hp": 2,
+  "validation_recordings": 14,
+  "validation_windows": 826,
+  "correct_validation_windows": 698,
+  "incorrect_validation_windows": 128,
+  "training_accuracy": 0.8352868599629858,
+  "validation_accuracy": 0.8450363196125908,
+  "validation_accuracy_percent": 84.50363196125909,
+  "validation_balanced_accuracy": 0.8668280871670703,
+  "validation_macro_f1": 0.8552471142397049,
+  "outer_race_positions": [
+    "3:00",
+    "6:00",
+    "12:00"
+  ],
+  "fault_diameters_in": [
+    0.007,
+    0.014,
+    0.021
+  ],
+  "tflite_bytes": 2312,
+  "tflite_sha256": "d782992aeb8cb09feb1ba8ea0663f13c536f030631a1768561785a7e203ccfc1",
+  "feature_contract": "feature_contract.json",
+  "normalization": "normalization.npz",
+  "firmware_normalization": "normalization.h",
+  "firmware_model_header": "model_data.h",
+  "class_order": [
+    "healthy",
+    "inner_race",
+    "outer_race",
+    "ball"
+  ],
+  "new_fixed_6oclock_subset_model_trained": false,
+  "accuracy_scope": "Earlier mixed-position 14-source 2 HP development set; not the new fixed-6:00 subset",
+  "final_3hp_test_evaluated": false,
+  "known_limitations": [
+    "Outer-race recording 199 has 0/59 correct validation windows",
+    "Fault-size transfer and difficult training cases remain under investigation",
+    "Source sampling rates are reference documented; data-level confirmation pending",
+    "Actual ESP32 feature parity, compatibility and performance have not been verified"
+  ]
+}

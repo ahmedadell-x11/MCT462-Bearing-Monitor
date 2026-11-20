@@ -1,0 +1,18 @@
+{
+  "original_archive": "run_20261119_144118_671165_grouped_FP32_handoff.zip",
+  "original_saved_run_files_byte_identical": true,
+  "checked_reference_windows": 826,
+  "recomputed_features_match": true,
+  "recomputed_normalization_match": true,
+  "max_feature_difference": 0.0,
+  "max_normalized_input_difference": 0.0,
+  "saved_prediction_correct_windows": 698,
+  "saved_prediction_accuracy": 0.8450363196125908,
+  "stored_confusion_matrix_reproduced": true,
+  "model_header_bytes_match_tflite": true,
+  "tflite_sha256": "d782992aeb8cb09feb1ba8ea0663f13c536f030631a1768561785a7e203ccfc1",
+  "model_training_performed": false,
+  "new_litert_inference_performed": false,
+  "original_export_classes_match": true,
+  "original_export_max_score_difference": 2.384185791015625e-07
+}

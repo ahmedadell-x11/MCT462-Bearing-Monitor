@@ -1,0 +1,10 @@
+GITHUB UPLOAD
+
+Extract this ZIP. Open the extracted folder, then upload its models folder to the
+repository root using GitHub Add file > Upload files. Upload the folder contents,
+not only this ZIP, so teammates can access models/grouped_fp32_v1/ directly.
+Commit message: Add grouped FP32 bearing baseline and matching preprocessing
+
+This creates a separate version directory without overwriting older experiments.
+Tell teammates to use models/grouped_fp32_v1/README.txt and MODEL_SUMMARY.json.
+Keep PC_ONLY data on the PC; the firmware uses the model and matching feature/norm code.

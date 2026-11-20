@@ -1,0 +1,17 @@
+{
+  "summaries": [
+    {
+      "l2": 0.001,
+      "mean_recording_recall": 0.598086726410806,
+      "mean_macro_f1": 0.5073770632199267
+    },
+    {
+      "l2": 0.01,
+      "mean_recording_recall": 0.6000876680303916,
+      "mean_macro_f1": 0.5194255940296715
+    }
+  ],
+  "chosen_l2": 0.01,
+  "chosen_epochs": 7,
+  "rule": "max mean recording recall; within 0.005 prefer stronger L2; ceil median best epoch"
+}
